@@ -1,45 +1,57 @@
-## Independent Researcher & Systems Builder
+## Independent AI Safety Researcher | Red Team Operator | Systems Builder
 
-I work at the intersection of research, systems design, and real-world operations.
+I work at the intersection of systems design, security analysis, and real-world deployment risk.
 
-My background spans high-stakes operational leadership, technical system architecture, and independent AI safety research. I specialize in turning loosely defined problems into stable, working systems that people can actually use and trust.
-
----
-
-### Current Focus Areas
-
-- AI safety and deployment integrity
-- Communication-mode and intent misclassification
-- Context-aware intent verification protocols
-- Human-aligned guardrails that reduce over-intervention
-- Systems that work without retraining or behavioral coercion
+**→ [Start Here](https://github.com/ChristopherPatrickKuntz/start-here)** — Who I am, how I work, and why.
 
 ---
 
-### Builder & Operations Background
+### Current Focus
+
+Identifying structural failure modes in language-based AI systems, especially those that emerge during real interaction rather than scripted evaluation.
+
+- Premature intent resolution and confidence laundering
+- Pre-articulation observability limits
+- Probabilistic identity and contestability gaps
+- Deployment risk in child-facing and safety-critical contexts
+
+---
+
+### Public Work
+
+| Repository | Description |
+|------------|-------------|
+| [start-here](https://github.com/ChristopherPatrickKuntz/start-here) | Full methodology and background |
+| [pre-articulation-boundary](https://github.com/ChristopherPatrickKuntz/pre-articulation-boundary) | Position paper on structural limits of language-based AI |
+| [uivp-disclosure-summary](https://github.com/ChristopherPatrickKuntz/uivp-disclosure-summary) | Cross-model intent misclassification disclosure |
+| [probabilistic-identity-security-analysis](https://github.com/ChristopherPatrickKuntz/probabilistic-identity-security-analysis) | Security analysis of emergent identity infrastructure |
+| [revshare-forensic-case-study](https://github.com/ChristopherPatrickKuntz/revshare-forensic-case-study) | Forensic analysis of custodial architecture failure |
+
+---
+
+### Background
 
 Before focusing on independent research, I spent years designing and operating real systems in production environments:
 
-- Led high-stakes operational teams in safety-critical infrastructure
-- Built and coordinated large-scale digital systems with millions of daily users
-- Designed workflows, backend logic, and operational pipelines across Web2 and Web3 systems
-- Bridged technical and non-technical teams with calm, human-first communication
+- Led operational teams in safety-critical infrastructure
+- Built systems handling millions of daily users
+- Designed custody models, incentive systems, and abuse-resistant architectures
+- Performed post-incident forensic analysis when systems failed
 
 ---
 
 ### How I Work
 
-- Builder first, researcher second
-- Quiet execution over visibility
-- Documentation and clarity over hype
-- Empathy under pressure
-- Systems that support people, not extract from them
+- Exploratory first, disciplined second
+- Anomaly sensing before formal diagnosis
+- Documentation and reproducibility over hype
+- Systems evaluated as deployed artifacts, not just models
 
 ---
 
 ### Contact
 
-**Website:** https://cpk.solutions  
+**Website:** [cpk.solutions](https://cpk.solutions)  
 **Email:** christopher@cpk.solutions
 
-I am open to responsible disclosure conversations, research collaboration, and short-term advisory or consulting work aligned with safety, integrity, and system design.
+I am open to responsible disclosure conversations, research collaboration, and advisory work aligned with safety, integrity, and system design.
