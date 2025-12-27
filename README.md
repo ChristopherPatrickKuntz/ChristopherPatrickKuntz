@@ -17,6 +17,12 @@ Identifying structural failure modes in language-based AI systems, especially th
 
 ---
 
+### Primary Research
+
+| Repository | Description |
+|------------|-------------|
+| **[ai-developmental-standards-monograph](https://github.com/ChristopherPatrickKuntz/ai-developmental-standards-monograph)** | **Independent research monograph (220 pages, 278 references):** AI interaction patterns and developmental standards. Complete theoretical framework including PAOB, DFC, SDT mapping, and UIVP hypothesis. |
+
 ### Public Work
 
 | Repository | Description |
