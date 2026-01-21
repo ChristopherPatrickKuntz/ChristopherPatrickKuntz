@@ -17,7 +17,14 @@ Identifying structural failure modes in language-based AI systems, especially th
 
 ---
 
-### Public Work
+### Policy Analysis
+
+| Repository | Description |
+|------------|-------------|
+| **[llm-epistemic-honesty](https://github.com/ChristopherPatrickKuntz/llm-epistemic-honesty)** | **They Lie, and We Lie About the Lying** — Why "hallucination" is a euphemism. 35 references. Policy recommendations. |
+| [symbol-grounding-critique](https://github.com/ChristopherPatrickKuntz/symbol-grounding-critique) | On the Inability of Language Models to Stub Their Toe — Referential collapse and semantic inflation |
+
+### Technical Research
 
 | Repository | Description |
 |------------|-------------|
